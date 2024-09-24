@@ -1,0 +1,5 @@
+classes = 21
+train = /content/darknet/build/darknet/x64/data/train_last.txt
+valid = /content/darknet/build/darknet/x64/data/valid_last.txt
+names = /content/darknet/build/darknet/x64/data/obj_new.names
+backup = /content/gdrive/MyDrive/yolo/backup_new
